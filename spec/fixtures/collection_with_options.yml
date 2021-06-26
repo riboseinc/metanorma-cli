@@ -14,7 +14,7 @@ bibdata:
   edition: 9
   date:
     - type: updated
-      value: 2019-05-20
+      value: "2019-05-20"
   copyright:
     owner:
       name: Bureau International des Poids et Mesures
